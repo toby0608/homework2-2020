@@ -58,7 +58,7 @@ img {
 }
 
 div {
-    height: 150px;
+    min-height: 150px;
     padding: 25px;
 }
 
@@ -83,7 +83,7 @@ div {
 }
 
 #green {
-    background-color: 	#00FF00;
+    background-color: 	#008000;
     text-align: left;
 }
 
